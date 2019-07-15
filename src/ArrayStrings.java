@@ -5,8 +5,8 @@ public class ArrayStrings {
 		
 		String[] words = new String[3];
 		
-		words[1] = "Hello";
-		words[2] = "to";
+		words[0] = "Hello";
+		words[1] = "to";
 		words[2] = "you";
 		
 		System.out.println(words[2]);
@@ -17,7 +17,7 @@ public class ArrayStrings {
 			System.out.println(fruit);
 		}
 
-		int value = 0;
+		
 		String text = null;
 		System.out.println(text);
 		

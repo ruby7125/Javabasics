@@ -12,6 +12,7 @@ public class stringdemo {
 		
 		double myDouble = 5.757;
 		System.out.println("My favourite number is: " + myInt +" and " + myDouble);
+		System.out.println(conc);
 	}
 
 }
